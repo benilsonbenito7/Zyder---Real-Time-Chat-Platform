@@ -20,7 +20,15 @@ A full-stack real-time chat application built with modern web technologies, feat
 
 ---
 
-## 👥 Team
+## � Visual Preview
+
+![Zyder Chat Interface](./img/rede.png)
+
+![Zyder SETTING  Menu](./img/rede1.png)
+
+---
+
+## �👥 Team
 
 | Developer                 | Role                        | GitHub                                                 |
 | ------------------------- | --------------------------- | ------------------------------------------------------ |
