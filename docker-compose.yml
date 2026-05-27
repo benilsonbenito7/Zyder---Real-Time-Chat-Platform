@@ -70,7 +70,7 @@ services:
   # 4️⃣ Nginx (HTTPS e Proxy Reverso)
   nginx:
     build: ./nginx
-    container_name: transcendence_nginx
+    container_name: nginx_zyder
     image: nginx
     restart: on-failure
     ports:
